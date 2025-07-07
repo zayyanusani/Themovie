@@ -1,0 +1,1 @@
+MONGODB_URI=mongodb+srv://zayyanusanitv:<db_password>@cluster0.bqkis4o.mongodb.net/
